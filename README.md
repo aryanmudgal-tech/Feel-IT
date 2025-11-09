@@ -118,7 +118,7 @@ The wearable acts as a BLE server, displaying alerts and providing haptic feedba
 ## 🏗️ System Diagram
 
 ```markdown
-![System Architecture](images/system_workflow.png)
+(https://drive.google.com/file/d/1OAz1ZWomeQ3MjtraH6M0khTsriJ3krL8/view?usp=sharing)
 ```
 
 *(Add your Figma or architecture image in the `/images` folder and update the path above.)*
